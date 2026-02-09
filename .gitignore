@@ -1,0 +1,4 @@
+*.pem
+*.sql
+__pycache__/
+.env
